@@ -1,0 +1,23 @@
+{
+  "name": "week06-war-cardgame",
+  "version": "1.0.0",
+  "description": "test functions in game",
+  "main": "war.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margrith-wolf/Week-6---War-Card-Game.git"
+  },
+  "author": "Margrith Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/margrith-wolf/Week-6---War-Card-Game/issues"
+  },
+  "homepage": "https://github.com/margrith-wolf/Week-6---War-Card-Game#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
